@@ -1,0 +1,28 @@
+pack.name=Survival Tools
+pack.description=Survival Tools
+
+acm.vxl_st.survival_tools.addon_id=Survival Tools
+acm.vxl_st.survival_tools.description=A convenient bundle of commonly requested tools.
+acm.vxl_st.survival_tools.addon_author=Donthedev
+
+acm.vxl_st.survival_tools.info_header=§5Survival Tools
+acm.vxl_st.survival_tools.info_author=§3Made by Donthedev.
+
+acm.vxl_st.survival_tools.info_line0=§l§2A convenient bundle of commonly requested tools.
+acm.vxl_st.survival_tools.tag_id=Required Tag ID
+acm.vxl_st.survival_tools.use_dynamic_lighting=Use Dynamic Lighting
+acm.vxl_st.survival_tools.use_faster_paths=Use Faster Paths
+acm.vxl_st.survival_tools.use_auto_placer=Use Auto Placer
+acm.vxl_st.survival_tools.use_axe=Use Axe
+acm.vxl_st.survival_tools.use_pickaxe=Use Pickaxe
+acm.vxl_st.survival_tools.use_hoe=Use Hoe
+acm.vxl_st.survival_tools.use_shovel=Use Shovel
+acm.vxl_st.survival_tools.auto_placer_search_depth=Auto Placer Search Depth
+acm.vxl_st.survival_tools.wood_search_depth=Wood Search Depth
+acm.vxl_st.survival_tools.ore_search_depth=Ore Search Depth
+acm.vxl_st.survival_tools.crop_search_depth=Crop Search Depth
+acm.vxl_st.survival_tools.diggable_search_depth=Diggable Search Depth
+acm.vxl_st.survival_tools.undefined=Undefined
+acm.vxl_st.survival_tools.advanced_settings=Advanced Settings
+
+
