@@ -15,13 +15,13 @@ export class DynamicLighting {
         if (this.last_placed_block.has(player.id)) {
             const last_known_pos = this.last_placed_block.get(player.id) as Vector3;
             if (JSON.stringify(player.location) === JSON.stringify(last_known_pos)) return;
-            player.dimension.runCommand(`fill ${last_known_pos.x} ${last_known_pos.y} ${last_known_pos.z} ${last_known_pos.x} ${last_known_pos.y} ${last_known_pos.z} air replace ${light_block_id}`);
+            player.dimension.runCommand(`fill ${last_known_pos.x} ${last_known_pos.y} ${last_known_pos.z} ${last_known_pos.x} ${last_known_pos.y + 1} ${last_known_pos.z} air replace ${light_block_id}`);
             this.last_placed_block.delete(player.id);
         } 
         const data: LightingData = this.has_lighting_item(player, EventManager.CONFIG_CASHE.dynamic_lighting.exceptions )
         if (!this.last_placed_block.has(player.id) && data.has_item) {
             const pos: Vector3 = new Vector3(player.location.x,player.location.y + 1,player.location.z);
-            player.dimension.runCommand(`fill ${pos.x} ${pos.y} ${pos.z} ${pos.x} ${pos.y} ${pos.z} ${light_block_id}["block_light_level" = ${data.lighting_item?.block_light_level || 15}] replace air`)
+            player.dimension.runCommand(`fill ${pos.x} ${pos.y} ${pos.z} ${pos.x} ${pos.y + 1} ${pos.z} ${light_block_id}["block_light_level" = ${data.lighting_item?.block_light_level || 15}] replace air`)
             this.last_placed_block.set(player.id, pos);
         }
     }

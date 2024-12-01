@@ -65,8 +65,8 @@ export class CommonUtil {
     }
     
     public static process_item_stack(item_stack: ItemStack, blocks: Block[], player: Player): {successful: boolean, fortune_level: number, silk_touch_level: number} {
-        const durability: ItemDurabilityComponent | undefined = item_stack.getComponent(ItemComponentTypes.Durability);
-        const enchantable: ItemEnchantableComponent | undefined = item_stack.getComponent(ItemComponentTypes.Enchantable);
+        const durability = item_stack.getComponent(ItemComponentTypes.Durability) as ItemDurabilityComponent;
+        const enchantable = item_stack.getComponent(ItemComponentTypes.Enchantable) as ItemEnchantableComponent;
 
         const blocks_to_break: number = blocks.length;
         const max_durability: number = durability?.maxDurability || 0;

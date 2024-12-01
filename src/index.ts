@@ -18,11 +18,13 @@ player_manager.forEachPlayer(player => {
 });
 
 function handle_faster_paths(player: Player){
-    const block: Block | undefined = player.dimension.getBlock(new Vector3(player.location.x,player.location.y-0.9,player.location.z));
-    if (block && block.typeId === VanillaData.MinecraftBlockTypes.GrassPath) {
-        player.addEffect(VanillaData.MinecraftEffectTypes.Speed, 10, {
-            amplifier: 0,
-            showParticles: false
-        })
+    if (player && player.isValid()) {
+        const block: Block | undefined = player.dimension.getBlock(new Vector3(player.location.x,player.location.y-0.9,player.location.z));
+        if (block && block.isValid() && block.typeId === VanillaData.MinecraftBlockTypes.GrassPath) {
+            player.addEffect(VanillaData.MinecraftEffectTypes.Speed, 10, {
+                amplifier: 0,
+                showParticles: false
+            })
+        }
     }
 }
