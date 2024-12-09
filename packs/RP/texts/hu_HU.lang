@@ -1,0 +1,25 @@
+pack.name=Megnövelt túlélés
+pack.description=Megnövelt túlélés
+
+acm.vxl_st.pack_name=Túlélési eszközök
+acm.vxl_st.author_name=Donthedev
+acm.vxl_st.description=A gyakran igényelt eszközök kényelmes csomagja.
+
+acm.vxl_st.tag_id=Kötelező címkeazonosító
+acm.vxl_st.use_dynamic_lighting=Használjon dinamikus világítást
+acm.vxl_st.use_faster_paths=Gyorsabb útvonalak használata
+acm.vxl_st.use_auto_placer=Használja az Automatikus elhelyezést
+acm.vxl_st.use_axe=Használd az Axet
+acm.vxl_st.use_pickaxe=Használd a Pickaxe-t
+acm.vxl_st.use_hoe=Használd a Hoe-t
+acm.vxl_st.use_shovel=Használj Lapátot
+acm.vxl_st.auto_placer_search_depth=Auto Placer Search Depth
+acm.vxl_st.wood_search_depth=Fa keresési mélysége
+acm.vxl_st.ore_search_depth=Érckeresés mélysége
+acm.vxl_st.crop_search_depth=Crop Search Depth
+acm.vxl_st.diggable_search_depth=Átható keresési mélység
+acm.vxl_st.undefined=Undefined
+acm.vxl_st.advanced_settings=Speciális beállítások
+
+
+

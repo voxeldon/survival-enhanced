@@ -1,0 +1,25 @@
+pack.name=Överlevnad förbättrad
+pack.description=Överlevnad förbättrad
+
+acm.vxl_st.pack_name=Överlevnadsverktyg
+acm.vxl_st.author_name=Donthedev
+acm.vxl_st.description=Ett bekvämt paket med vanliga verktyg.
+
+acm.vxl_st.tag_id=Obligatoriskt Tag-ID
+acm.vxl_st.use_dynamic_lighting=Använd dynamisk belysning
+acm.vxl_st.use_faster_paths=Använd snabbare vägar
+acm.vxl_st.use_auto_placer=Använd Auto Placer
+acm.vxl_st.use_axe=Använd Axe
+acm.vxl_st.use_pickaxe=Använd hacka
+acm.vxl_st.use_hoe=Använd Hoe
+acm.vxl_st.use_shovel=Använd spade
+acm.vxl_st.auto_placer_search_depth=Auto Placer Sökdjup
+acm.vxl_st.wood_search_depth=Träsökdjup
+acm.vxl_st.ore_search_depth=Malmsökdjup
+acm.vxl_st.crop_search_depth=Beskärningssökningsdjup
+acm.vxl_st.diggable_search_depth=Grävbart sökdjup
+acm.vxl_st.undefined=Odefinierad
+acm.vxl_st.advanced_settings=Avancerade inställningar
+
+
+

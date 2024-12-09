@@ -1,0 +1,25 @@
+pack.name=Подобрено оцеляване
+pack.description=Подобрено оцеляване
+
+acm.vxl_st.pack_name=Инструменти за оцеляване
+acm.vxl_st.author_name=Донтедев
+acm.vxl_st.description=Удобен пакет от често търсени инструменти.
+
+acm.vxl_st.tag_id=Задължителен идентификатор на етикет
+acm.vxl_st.use_dynamic_lighting=Използвайте динамично осветление
+acm.vxl_st.use_faster_paths=Използвайте по-бързи пътища
+acm.vxl_st.use_auto_placer=Използвайте Auto Placer
+acm.vxl_st.use_axe=Използвайте брадвата
+acm.vxl_st.use_pickaxe=Използвайте кирка
+acm.vxl_st.use_hoe=Използвайте Мотика
+acm.vxl_st.use_shovel=Използвайте лопата
+acm.vxl_st.auto_placer_search_depth=Дълбочина на търсене на автоматично поставяне
+acm.vxl_st.wood_search_depth=Дълбочина на търсене на дърво
+acm.vxl_st.ore_search_depth=Дълбочина на търсене на руда
+acm.vxl_st.crop_search_depth=Дълбочина на търсене на изрязване
+acm.vxl_st.diggable_search_depth=Дълбочина на търсене с възможност за копаене
+acm.vxl_st.undefined=Недефиниран
+acm.vxl_st.advanced_settings=Разширени настройки
+
+
+

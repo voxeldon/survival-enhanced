@@ -1,0 +1,25 @@
+pack.name=Overleving verbeterd
+pack.description=Overleving verbeterd
+
+acm.vxl_st.pack_name=Overlevingsinstrumenten
+acm.vxl_st.author_name=Donthedev
+acm.vxl_st.description=Een handig pakket met veelgevraagde tools.
+
+acm.vxl_st.tag_id=Vereiste tag-ID
+acm.vxl_st.use_dynamic_lighting=Gebruik dynamische verlichting
+acm.vxl_st.use_faster_paths=Gebruik snellere paden
+acm.vxl_st.use_auto_placer=Gebruik Automatische plaatsing
+acm.vxl_st.use_axe=Gebruik Bijl
+acm.vxl_st.use_pickaxe=Gebruik houweel
+acm.vxl_st.use_hoe=Gebruik Schoffel
+acm.vxl_st.use_shovel=Gebruik Schop
+acm.vxl_st.auto_placer_search_depth=Zoekdiepte voor automatische plaatsing
+acm.vxl_st.wood_search_depth=Zoekdiepte hout
+acm.vxl_st.ore_search_depth=Erts zoekdiepte
+acm.vxl_st.crop_search_depth=Zoekdiepte bijsnijden
+acm.vxl_st.diggable_search_depth=Graafbare zoekdiepte
+acm.vxl_st.undefined=Ongedefinieerd
+acm.vxl_st.advanced_settings=Geavanceerde instellingen
+
+
+

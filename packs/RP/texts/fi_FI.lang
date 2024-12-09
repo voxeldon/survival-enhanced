@@ -1,0 +1,25 @@
+pack.name=Survival Enhanced
+pack.description=Survival Enhanced
+
+acm.vxl_st.pack_name=Survival Tools
+acm.vxl_st.author_name=Donthedev
+acm.vxl_st.description=Kätevä nippu usein kysyttyjä työkaluja.
+
+acm.vxl_st.tag_id=Vaadittu tunnistetunnus
+acm.vxl_st.use_dynamic_lighting=Käytä dynaamista valaistusta
+acm.vxl_st.use_faster_paths=Käytä nopeampia polkuja
+acm.vxl_st.use_auto_placer=Käytä Auto Placeria
+acm.vxl_st.use_axe=Käytä Ax
+acm.vxl_st.use_pickaxe=Käytä Pickaxea
+acm.vxl_st.use_hoe=Käytä Hoea
+acm.vxl_st.use_shovel=Käytä Shovelia
+acm.vxl_st.auto_placer_search_depth=Automaattisen sijoittajan haun syvyys
+acm.vxl_st.wood_search_depth=Puuhaun syvyys
+acm.vxl_st.ore_search_depth=Malmihaun syvyys
+acm.vxl_st.crop_search_depth=Rajaushaun syvyys
+acm.vxl_st.diggable_search_depth=Kaivattava hakusyvyys
+acm.vxl_st.undefined=Määrittämätön
+acm.vxl_st.advanced_settings=Lisäasetukset
+
+
+

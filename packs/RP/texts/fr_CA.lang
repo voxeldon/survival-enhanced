@@ -1,0 +1,25 @@
+pack.name=Survie améliorée
+pack.description=Survie améliorée
+
+acm.vxl_st.pack_name=Outils de survie
+acm.vxl_st.author_name=Donthedev
+acm.vxl_st.description=Un ensemble pratique d'outils couramment demandés.
+
+acm.vxl_st.tag_id=ID de balise requis
+acm.vxl_st.use_dynamic_lighting=Utiliser l'éclairage dynamique
+acm.vxl_st.use_faster_paths=Utiliser des chemins plus rapides
+acm.vxl_st.use_auto_placer=Utiliser le placement automatique
+acm.vxl_st.use_axe=Utiliser la hache
+acm.vxl_st.use_pickaxe=Utiliser une pioche
+acm.vxl_st.use_hoe=Utiliser la houe
+acm.vxl_st.use_shovel=Utiliser une pelle
+acm.vxl_st.auto_placer_search_depth=Profondeur de recherche du placement automatique
+acm.vxl_st.wood_search_depth=Profondeur de recherche du bois
+acm.vxl_st.ore_search_depth=Profondeur de recherche de minerai
+acm.vxl_st.crop_search_depth=Profondeur de recherche de cultures
+acm.vxl_st.diggable_search_depth=Profondeur de recherche creusable
+acm.vxl_st.undefined=Indéfini
+acm.vxl_st.advanced_settings=Paramètres avancés
+
+
+

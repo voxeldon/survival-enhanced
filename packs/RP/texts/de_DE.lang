@@ -1,0 +1,25 @@
+pack.name=Überleben verbessert
+pack.description=Überleben verbessert
+
+acm.vxl_st.pack_name=Überlebenswerkzeuge
+acm.vxl_st.author_name=Donthedev
+acm.vxl_st.description=Ein praktisches Paket häufig nachgefragter Tools.
+
+acm.vxl_st.tag_id=Erforderliche Tag-ID
+acm.vxl_st.use_dynamic_lighting=Verwenden Sie dynamische Beleuchtung
+acm.vxl_st.use_faster_paths=Verwenden Sie schnellere Pfade
+acm.vxl_st.use_auto_placer=Verwenden Sie Auto Placer
+acm.vxl_st.use_axe=Benutze Axt
+acm.vxl_st.use_pickaxe=Benutze Spitzhacke
+acm.vxl_st.use_hoe=Benutze Hacke
+acm.vxl_st.use_shovel=Benutze eine Schaufel
+acm.vxl_st.auto_placer_search_depth=Auto-Placer-Suchtiefe
+acm.vxl_st.wood_search_depth=Holzsuchtiefe
+acm.vxl_st.ore_search_depth=Tiefe der Erzsuche
+acm.vxl_st.crop_search_depth=Suchtiefe zuschneiden
+acm.vxl_st.diggable_search_depth=Ausgrabbare Suchtiefe
+acm.vxl_st.undefined=Undefiniert
+acm.vxl_st.advanced_settings=Erweiterte Einstellungen
+
+
+

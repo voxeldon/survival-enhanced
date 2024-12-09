@@ -1,0 +1,25 @@
+pack.name=Покращене виживання
+pack.description=Покращене виживання
+
+acm.vxl_st.pack_name=Інструменти виживання
+acm.vxl_st.author_name=Донтедев
+acm.vxl_st.description=Зручний набір часто використовуваних інструментів.
+
+acm.vxl_st.tag_id=Необхідний ідентифікатор тегу
+acm.vxl_st.use_dynamic_lighting=Використовуйте динамічне освітлення
+acm.vxl_st.use_faster_paths=Використовуйте швидкі шляхи
+acm.vxl_st.use_auto_placer=Використовуйте Auto Placer
+acm.vxl_st.use_axe=Використовуйте Axe
+acm.vxl_st.use_pickaxe=Використовуйте кирку
+acm.vxl_st.use_hoe=Використовуйте мотику
+acm.vxl_st.use_shovel=Використовуйте лопату
+acm.vxl_st.auto_placer_search_depth=Глибина пошуку автоматичного розміщення
+acm.vxl_st.wood_search_depth=Глибина пошуку деревини
+acm.vxl_st.ore_search_depth=Глибина пошуку руди
+acm.vxl_st.crop_search_depth=Глибина пошуку кадрів
+acm.vxl_st.diggable_search_depth=Глибина пошуку
+acm.vxl_st.undefined=Невизначено
+acm.vxl_st.advanced_settings=Розширені налаштування
+
+
+

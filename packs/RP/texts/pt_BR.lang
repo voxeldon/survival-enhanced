@@ -1,0 +1,25 @@
+pack.name=Sobrevivência aprimorada
+pack.description=Sobrevivência aprimorada
+
+acm.vxl_st.pack_name=Ferramentas de sobrevivência
+acm.vxl_st.author_name=Donthedev
+acm.vxl_st.description=Um pacote conveniente de ferramentas comumente solicitadas.
+
+acm.vxl_st.tag_id=ID de tag obrigatório
+acm.vxl_st.use_dynamic_lighting=Use iluminação dinâmica
+acm.vxl_st.use_faster_paths=Use caminhos mais rápidos
+acm.vxl_st.use_auto_placer=Usar o posicionador automático
+acm.vxl_st.use_axe=Usar Machado
+acm.vxl_st.use_pickaxe=Usar Picareta
+acm.vxl_st.use_hoe=Use enxada
+acm.vxl_st.use_shovel=Use pá
+acm.vxl_st.auto_placer_search_depth=Profundidade de pesquisa do posicionador automático
+acm.vxl_st.wood_search_depth=Profundidade de pesquisa de madeira
+acm.vxl_st.ore_search_depth=Profundidade de pesquisa de minério
+acm.vxl_st.crop_search_depth=Profundidade de pesquisa de corte
+acm.vxl_st.diggable_search_depth=Profundidade de pesquisa escavável
+acm.vxl_st.undefined=Indefinido
+acm.vxl_st.advanced_settings=Configurações avançadas
+
+
+

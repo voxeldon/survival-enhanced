@@ -1,0 +1,25 @@
+pack.name=生存增强
+pack.description=生存增强
+
+acm.vxl_st.pack_name=生存工具
+acm.vxl_st.author_name=顿泰德夫
+acm.vxl_st.description=一个方便的常用工具包。
+
+acm.vxl_st.tag_id=所需标签 ID
+acm.vxl_st.use_dynamic_lighting=使用动态照明
+acm.vxl_st.use_faster_paths=使用更快的路径
+acm.vxl_st.use_auto_placer=使用自动放置器
+acm.vxl_st.use_axe=使用斧头
+acm.vxl_st.use_pickaxe=使用镐
+acm.vxl_st.use_hoe=使用锄头
+acm.vxl_st.use_shovel=使用铲子
+acm.vxl_st.auto_placer_search_depth=自动放置器搜索深度
+acm.vxl_st.wood_search_depth=木材搜索深度
+acm.vxl_st.ore_search_depth=矿石搜索深度
+acm.vxl_st.crop_search_depth=作物搜索深度
+acm.vxl_st.diggable_search_depth=可挖掘的搜索深度
+acm.vxl_st.undefined=不明确的
+acm.vxl_st.advanced_settings=高级设置
+
+
+

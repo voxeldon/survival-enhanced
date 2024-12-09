@@ -1,0 +1,25 @@
+pack.name=Kelangsungan Hidup Ditingkatkan
+pack.description=Kelangsungan Hidup Ditingkatkan
+
+acm.vxl_st.pack_name=Alat Bertahan Hidup
+acm.vxl_st.author_name=Donthedev
+acm.vxl_st.description=Kumpulan alat praktis yang sering diminta.
+
+acm.vxl_st.tag_id=ID Tag yang Diperlukan
+acm.vxl_st.use_dynamic_lighting=Gunakan Pencahayaan Dinamis
+acm.vxl_st.use_faster_paths=Gunakan Jalur Lebih Cepat
+acm.vxl_st.use_auto_placer=Gunakan Penempatan Otomatis
+acm.vxl_st.use_axe=Gunakan Kapak
+acm.vxl_st.use_pickaxe=Gunakan Beliung
+acm.vxl_st.use_hoe=Gunakan Cangkul
+acm.vxl_st.use_shovel=Gunakan Sekop
+acm.vxl_st.auto_placer_search_depth=Kedalaman Pencarian Placer Otomatis
+acm.vxl_st.wood_search_depth=Kedalaman Pencarian Kayu
+acm.vxl_st.ore_search_depth=Kedalaman Pencarian Bijih
+acm.vxl_st.crop_search_depth=Pangkas Kedalaman Pencarian
+acm.vxl_st.diggable_search_depth=Kedalaman Pencarian yang Dapat Digali
+acm.vxl_st.undefined=Belum diartikan
+acm.vxl_st.advanced_settings=Pengaturan Lanjutan
+
+
+

@@ -1,0 +1,25 @@
+pack.name=Ενισχυμένη επιβίωση
+pack.description=Ενισχυμένη επιβίωση
+
+acm.vxl_st.pack_name=Εργαλεία επιβίωσης
+acm.vxl_st.author_name=Ο Ντοντέντεφ
+acm.vxl_st.description=Μια βολική δέσμη εργαλείων που ζητούνται συνήθως.
+
+acm.vxl_st.tag_id=Απαιτούμενο αναγνωριστικό ετικέτας
+acm.vxl_st.use_dynamic_lighting=Χρησιμοποιήστε δυναμικό φωτισμό
+acm.vxl_st.use_faster_paths=Χρησιμοποιήστε ταχύτερα μονοπάτια
+acm.vxl_st.use_auto_placer=Χρησιμοποιήστε το Auto Placer
+acm.vxl_st.use_axe=Χρησιμοποιήστε το Axe
+acm.vxl_st.use_pickaxe=Χρησιμοποιήστε Pickaxe
+acm.vxl_st.use_hoe=Χρησιμοποιήστε το Hoe
+acm.vxl_st.use_shovel=Χρησιμοποιήστε το φτυάρι
+acm.vxl_st.auto_placer_search_depth=Βάθος αναζήτησης Auto Placer
+acm.vxl_st.wood_search_depth=Βάθος αναζήτησης ξύλου
+acm.vxl_st.ore_search_depth=Βάθος αναζήτησης μεταλλεύματος
+acm.vxl_st.crop_search_depth=Βάθος αναζήτησης περικοπής
+acm.vxl_st.diggable_search_depth=Βάθος αναζήτησης με δυνατότητα εκσκαφής
+acm.vxl_st.undefined=Απροσδιόριστος
+acm.vxl_st.advanced_settings=Προηγμένες ρυθμίσεις
+
+
+

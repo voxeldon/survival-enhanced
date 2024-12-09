@@ -1,0 +1,25 @@
+pack.name=Vylepšené prežitie
+pack.description=Vylepšené prežitie
+
+acm.vxl_st.pack_name=Nástroje na prežitie
+acm.vxl_st.author_name=Donthedev
+acm.vxl_st.description=Pohodlný balík bežne požadovaných nástrojov.
+
+acm.vxl_st.tag_id=Povinné ID značky
+acm.vxl_st.use_dynamic_lighting=Použite dynamické osvetlenie
+acm.vxl_st.use_faster_paths=Použite rýchlejšie cesty
+acm.vxl_st.use_auto_placer=Použite Auto Placer
+acm.vxl_st.use_axe=Použite Ax
+acm.vxl_st.use_pickaxe=Použite krompáč
+acm.vxl_st.use_hoe=Použite motyku
+acm.vxl_st.use_shovel=Použite lopatu
+acm.vxl_st.auto_placer_search_depth=Hĺbka vyhľadávania Auto Placer
+acm.vxl_st.wood_search_depth=Hĺbka vyhľadávania dreva
+acm.vxl_st.ore_search_depth=Hĺbka vyhľadávania rudy
+acm.vxl_st.crop_search_depth=Hĺbka vyhľadávania orezania
+acm.vxl_st.diggable_search_depth=Hĺbka hĺbkového vyhľadávania
+acm.vxl_st.undefined=Nedefinované
+acm.vxl_st.advanced_settings=Rozšírené nastavenia
+
+
+

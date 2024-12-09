@@ -1,0 +1,25 @@
+pack.name=Zwiększone przeżycie
+pack.description=Zwiększone przeżycie
+
+acm.vxl_st.pack_name=Narzędzia przetrwania
+acm.vxl_st.author_name=Donthedev
+acm.vxl_st.description=Wygodny pakiet często wymaganych narzędzi.
+
+acm.vxl_st.tag_id=Wymagany identyfikator tagu
+acm.vxl_st.use_dynamic_lighting=Użyj dynamicznego oświetlenia
+acm.vxl_st.use_faster_paths=Użyj szybszych ścieżek
+acm.vxl_st.use_auto_placer=Użyj automatycznego rozmieszczania
+acm.vxl_st.use_axe=Użyj Topora
+acm.vxl_st.use_pickaxe=Użyj kilofa
+acm.vxl_st.use_hoe=Użyj Motyki
+acm.vxl_st.use_shovel=Użyj Łopaty
+acm.vxl_st.auto_placer_search_depth=Głębokość wyszukiwania automatycznego umieszczania
+acm.vxl_st.wood_search_depth=Głębokość wyszukiwania drewna
+acm.vxl_st.ore_search_depth=Głębokość przeszukiwania rudy
+acm.vxl_st.crop_search_depth=Głębokość wyszukiwania upraw
+acm.vxl_st.diggable_search_depth=Możliwość kopania Głębokość wyszukiwania
+acm.vxl_st.undefined=Nieokreślony
+acm.vxl_st.advanced_settings=Ustawienia zaawansowane
+
+
+

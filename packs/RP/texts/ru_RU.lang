@@ -1,0 +1,25 @@
+pack.name=Улучшенное выживание
+pack.description=Улучшенное выживание
+
+acm.vxl_st.pack_name=Инструменты выживания
+acm.vxl_st.author_name=Донтедев
+acm.vxl_st.description=Удобный набор часто запрашиваемых инструментов.
+
+acm.vxl_st.tag_id=Требуемый идентификатор тега
+acm.vxl_st.use_dynamic_lighting=Используйте динамическое освещение
+acm.vxl_st.use_faster_paths=Используйте более быстрые пути
+acm.vxl_st.use_auto_placer=Использовать автоматическое размещение
+acm.vxl_st.use_axe=Используйте топор
+acm.vxl_st.use_pickaxe=Используйте кирку
+acm.vxl_st.use_hoe=Используйте мотыгу
+acm.vxl_st.use_shovel=Используйте лопату
+acm.vxl_st.auto_placer_search_depth=Глубина автоматического поиска россыпей
+acm.vxl_st.wood_search_depth=Глубина поиска древесины
+acm.vxl_st.ore_search_depth=Глубина поиска руды
+acm.vxl_st.crop_search_depth=Обрезать глубину поиска
+acm.vxl_st.diggable_search_depth=Доступная глубина поиска
+acm.vxl_st.undefined=Неопределенный
+acm.vxl_st.advanced_settings=Расширенные настройки
+
+
+

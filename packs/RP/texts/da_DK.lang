@@ -1,0 +1,25 @@
+pack.name=Forbedret overlevelse
+pack.description=Forbedret overlevelse
+
+acm.vxl_st.pack_name=Overlevelsesværktøjer
+acm.vxl_st.author_name=Donthedev
+acm.vxl_st.description=Et praktisk bundt af almindeligt efterspurgte værktøjer.
+
+acm.vxl_st.tag_id=Påkrævet tag-id
+acm.vxl_st.use_dynamic_lighting=Brug Dynamic Lighting
+acm.vxl_st.use_faster_paths=Brug hurtigere veje
+acm.vxl_st.use_auto_placer=Brug Auto Placer
+acm.vxl_st.use_axe=Brug Axe
+acm.vxl_st.use_pickaxe=Brug hakke
+acm.vxl_st.use_hoe=Brug Hoe
+acm.vxl_st.use_shovel=Brug skovl
+acm.vxl_st.auto_placer_search_depth=Auto Placer søgedybde
+acm.vxl_st.wood_search_depth=Træsøgningsdybde
+acm.vxl_st.ore_search_depth=Malmsøgningsdybde
+acm.vxl_st.crop_search_depth=Beskæringssøgningsdybde
+acm.vxl_st.diggable_search_depth=Gravbar søgedybde
+acm.vxl_st.undefined=Udefineret
+acm.vxl_st.advanced_settings=Avancerede indstillinger
+
+
+

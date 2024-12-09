@@ -1,0 +1,25 @@
+pack.name=생존 강화
+pack.description=생존 강화
+
+acm.vxl_st.pack_name=생존 도구
+acm.vxl_st.author_name=돈테데프
+acm.vxl_st.description=자주 요청되는 도구를 모아 놓은 편리한 번들입니다.
+
+acm.vxl_st.tag_id=필수 태그 ID
+acm.vxl_st.use_dynamic_lighting=동적 조명 사용
+acm.vxl_st.use_faster_paths=더 빠른 경로 사용
+acm.vxl_st.use_auto_placer=자동 배치기 사용
+acm.vxl_st.use_axe=도끼 사용
+acm.vxl_st.use_pickaxe=곡괭이 사용
+acm.vxl_st.use_hoe=괭이를 사용하세요
+acm.vxl_st.use_shovel=삽을 사용하세요
+acm.vxl_st.auto_placer_search_depth=자동 배치기 검색 깊이
+acm.vxl_st.wood_search_depth=목재 검색 깊이
+acm.vxl_st.ore_search_depth=광석 검색 깊이
+acm.vxl_st.crop_search_depth=자르기 검색 깊이
+acm.vxl_st.diggable_search_depth=파기 가능한 검색 깊이
+acm.vxl_st.undefined=한정되지 않은
+acm.vxl_st.advanced_settings=고급 설정
+
+
+
