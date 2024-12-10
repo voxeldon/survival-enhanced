@@ -1,7 +1,7 @@
 pack.name=Survival Enhanced
 pack.description=A convenient bundle of commonly requested tools.
 
-acm.vxl_st.pack_name=Survival Tools
+acm.vxl_st.pack_name=§6Survival Enhanced
 acm.vxl_st.author_name=Donthedev
 acm.vxl_st.description=A convenient bundle of commonly requested tools.
 
@@ -21,5 +21,18 @@ acm.vxl_st.diggable_search_depth=Diggable Search Depth
 acm.vxl_st.undefined=Undefined
 acm.vxl_st.advanced_settings=Advanced Settings
 
-
+acm.vxl_st.guide.title=§l§6Survival Enhanced Guide!§r
+acm.vxl_st.guide.tool_features_sneak=All tool features can be activated while sneaking.§r
+acm.vxl_st.guide.treecapitator=§l§2Treecapitator§r
+acm.vxl_st.guide.axes_chop_trees=Axes can now chop down entire trees at once.§r
+acm.vxl_st.guide.veinminer=§l§3Veinminer§r
+acm.vxl_st.guide.pickaxes_mine_veins=Pickaxes can now mine entire ore veins at once.§r
+acm.vxl_st.guide.crop_harvester=§l§4Crop Harvester§r
+acm.vxl_st.guide.hoes_harvest_crops=Hoes can now harvest entire crop areas at once.§r
+acm.vxl_st.guide.seed_placer=§l§5Seed Placer§r
+acm.vxl_st.guide.seeds_plant_groups=Seeds can now be planted in groups.§r
+acm.vxl_st.guide.faster_paths=§l§1Faster Paths§r
+acm.vxl_st.guide.paths_speed_boost=Paths will now make players and entities move faster while walking on them.§r
+acm.vxl_st.guide.dynamic_lighting=§l§6Dynamic Lighting§r
+acm.vxl_st.guide.lighting_dynamic_emission=Light-based blocks and items will now emit light dynamically while holding.§r
 

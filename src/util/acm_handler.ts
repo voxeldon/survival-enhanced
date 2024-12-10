@@ -89,6 +89,22 @@ export class AcmHandler {
                 ore_search_depth, 
                 crop_search_depth, 
                 diggable_search_depth
+            ],
+            guideKeys: [
+                "guide.title",
+                "guide.tool_features_sneak",
+                "guide.treecapitator",
+                "guide.axes_chop_trees",
+                "guide.veinminer",
+                "guide.pickaxes_mine_veins",
+                "guide.crop_harvester",
+                "guide.hoes_harvest_crops",
+                "guide.seed_placer",
+                "guide.seeds_plant_groups",
+                "guide.faster_paths",
+                "guide.paths_speed_boost",
+                "guide.dynamic_lighting",
+                "guide.lighting_dynamic_emission"
             ]
         }
         AcmApi.generateAddonProfile(addon_data);
